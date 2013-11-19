@@ -9,4 +9,5 @@ Gem::Specification.new do |s|
   s.executables = [ "wsdl2ruby.rb", "xsd2ruby.rb" ]
   s.add_dependency("httpclient", ">= 2.1.1")
   s.licenses = ["RUBY", "GPLv2"]
+  
 end
